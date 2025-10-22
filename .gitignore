@@ -1,0 +1,15 @@
+# Sistema e editor
+Thumbs.db
+.DS_Store
+*.log
+desktop.ini
+
+# Ambientes e IDEs
+node_modules/
+venv/
+__pycache__/
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+*.env
