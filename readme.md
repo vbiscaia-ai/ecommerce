@@ -26,7 +26,7 @@ O banco foi estruturado com as seguintes entidades principais:
 
 ## 🗂️ Diagrama Entidade-Relacionamento (ER)
 
-![ER Diagram](assets/MODELOEER.PNG)
+![ER Diagram](assets/er_diagram.png)
 
 ---
 
